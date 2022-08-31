@@ -3,7 +3,7 @@ permalink: /License.html
 title: CC BY 4.0
 ---
 <!-- CC-BY-4.0.md v1.0.0.0
-PapaKerballinisPizza (PKP)
+PapaKerballinisPizza (PIZZA)
 created: 12 Aug 2022
 updated:  -->
 
