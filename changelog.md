@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | OScience Laboratories (PKP)                                        |
+| modName    | OScience Laboratories (PIZZA)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | pizzaguy and zer0Kerbal                                           |
@@ -48,7 +48,7 @@ KSP_VERSION_MAX
 ### Status 0.9.99.0
 
 * Issues
-  * closes #1 - PapaKerballinisPizza 0.9.99.0-adoption (PKP) `<Thank you pizzaguy>` edition
+  * closes #1 - PapaKerballinisPizza 0.9.99.0-adoption (PIZZA) `<Thank you pizzaguy>` edition
   * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 0.9.99.0 Create Documentation
   * closes #4 - 0.9.99.0 Create Social Media Presence
