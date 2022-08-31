@@ -7,7 +7,7 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.1.0
-PapaKerballinisPizza (PKP)
+PapaKerballinisPizza (PIZZA)
 created: 13 Apr 2022
 updated: 15 May 2022
 
@@ -16,7 +16,7 @@ based upon work by LisiasT -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-# PapaKerballinisPizza (PKP)
+# PapaKerballinisPizza (PIZZA)
 
 [Home](./index.md)
 
@@ -30,9 +30,9 @@ based upon work by LisiasT -->
 * KerbSimpleCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
 
-## OScience Laboratories (PKP)
+## OScience Laboratories (PIZZA)
 
-* "OScience Laboratories (PKP)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "OScience Laboratories (PIZZA)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo) (KerbSimpleCo)
 
