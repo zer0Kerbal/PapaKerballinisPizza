@@ -162,7 +162,7 @@ science, parts, flags, agent
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by/4.0/ "CC BY 4.0"
 [LIC:0:log]: https://licensebuttons.net/i/l/by/transparent/33/66/99/76x22.png "CC BY 4.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY 4.0"
 
 [LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
 [LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
