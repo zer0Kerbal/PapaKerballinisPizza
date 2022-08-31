@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.5
-Papa Kerballinis Pizza (PKP)
+Papa Kerballinis Pizza (PIZZA)
 created: 17 Jul 2017
 updated: 17 Aug 2022 -->
 
@@ -11,7 +11,7 @@ updated: 17 Aug 2022 -->
 
 
 
-# Papa Kerballinis Pizza (PKP)
+# Papa Kerballinis Pizza (PIZZA)
 
 Papa Kerballini's Pizza - A Pizza Science Experiment in SPACE! Ever wanted to have the luxury of pizza while in sub-orbital flight? Now you can!
 
