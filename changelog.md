@@ -10,15 +10,17 @@
 | spacedock  | (https://spacedock.info/mod/3112)                                 |
 | ckan       | PapaKerballinisPizza                                              |
 
-# Version 1.0.99.0-adoption - `<Thank you link5505>` edition
-
----
-
-Version 1.0.0.0-release - `<Archival>`
+## Version 1.0.0.0-release - `<Archival>`
 
 * 03 Sep 2014
 * Released for Kerbal Space Program 0.24.2
 
 * Initial and final release by link5525
+
+### Status 1.0.0.0
+
+* Issues
+  * closes #7 - Archival Releases
+  * closes #31 - Previous Release
 
 ---
