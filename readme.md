@@ -22,7 +22,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/PapaKerballinisPizza/master/img/HeroLogo_1920x1920.png" alt="PapaKerballinisPizza Hero" width="50%" height="50%">
 
-
 * Included Parts:
   * Is it pizza or is it Little Keazer?
 
@@ -39,7 +38,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
-> * New and Variant Textures
+> * New and Variant Flavors ~~Textures~~
+> * A whole new experiment instead of Goo
 > * Compatibility patches
 > * more *lorem ipsum* text for parts and science
 > * Contracts for these glorious parts
@@ -123,7 +123,7 @@ science, parts, flags, agent
 
 #### Original (0) - Author: [`link5505`][link5505]
 
-> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
