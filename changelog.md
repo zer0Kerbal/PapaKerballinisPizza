@@ -32,6 +32,10 @@
   * closes #10 - Create <PapaKerballinisPizza.cfg>
 
   * closes #9 - Part Asset Updates
+
+top.mbm 4.097mb --> top.png 646kb
+pizza1.mbm 4.097mb --> pizza1.png 977kb
+
   * closes #6 - Create HeroLogo.png
 
 ### docs/
