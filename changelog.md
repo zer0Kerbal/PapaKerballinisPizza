@@ -36,6 +36,9 @@
 top.mbm 4.097mb --> top.png 646kb
 pizza1.mbm 4.097mb --> pizza1.png 977kb
 
+PizzaExperiment - pizza-experiment
+part.cfg --> pizza-experiment.cfg
+
   * closes #6 - Create HeroLogo.png
 
 ### docs/
