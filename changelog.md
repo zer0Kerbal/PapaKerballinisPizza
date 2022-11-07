@@ -19,6 +19,9 @@
 
 ### Localization 1.0.99.0
 
+<ScienceDefs.cfg> v1.0.0.0
+<en-us.cfg> v1.1.0.0
+
 * Create
   * closes #30 - Part Localization
   * closes #13 - English <us-en.cfg>
