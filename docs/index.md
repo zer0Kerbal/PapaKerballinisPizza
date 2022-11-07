@@ -14,7 +14,6 @@
 - [ManualInstallation](ManualInstallation.md)
 - [Marketing](Marketing.md)
 - [Notices](Notices.md)
-- [OrigLicense](OrigLicense.md)
 - [PartsCatalog](PartsCatalog.md)
 - [Why](Why.md)
 - [changelog](changelog.md)
