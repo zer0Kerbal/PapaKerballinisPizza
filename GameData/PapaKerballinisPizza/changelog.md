@@ -23,7 +23,7 @@
 
 * Initial pass I and II completed on part
 * Localization completed, just need translators
-* Initial work on creating new science experiements completed
+* Initial work on creating new science experiments completed
 * Better flavor (pun intended) text needed
 
 ### Parts 1.0.99.0
@@ -38,12 +38,12 @@
 
 ### Resources 1.0.99.0
 
-* Initial work on creating new science experiements completed
+* Initial work on creating new science experiments completed
 * Better flavor (pun intended) text needed
 * Placeholder text is in <en-us.cfg>, scroll _way_ down
 * <ScienceDefs.cfg> v1.0.0.0
-  * experiement: PapaKerballinisPizza
-  * experiement: evaPizzaScience
+  * experiment: PapaKerballinisPizza
+  * experiment: evaPizzaScience
 * updates  #34 - [Request]: Create Pizza science experiment 🍕🧪
 
 * ### Localization 1.0.99.0
