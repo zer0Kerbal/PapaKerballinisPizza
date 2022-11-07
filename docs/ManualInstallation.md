@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-PapaKerballinisPizza (PIZZA)
+Papa Kerballini's Pizza (PIZZA)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# PapaKerballinisPizza (PIZZA)
+# Papa Kerballini's Pizza (PIZZA)
 
 [Home](./index.md)
 
