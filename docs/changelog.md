@@ -67,10 +67,10 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Update
   * <en-us.cfg> v1.1.0.0
   * added science experiment strings
-* closes #30 - Part Localization
-* closes #13 - English <us-en.cfg>
-* closes #12 - Localization - Master
 * closes #8 - Create Localization directory and contents
+* updates #12 - Localization - Master
+* closes #13 - English <us-en.cfg>
+* closes #30 - Part Localization
 
 ### Config 1.0.99.0
 
