@@ -7,14 +7,14 @@ tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Disclaimer.md v1.0.1.0
-PapaKerballinisPizza (PIZZA)
+Papa Kerballini's Pizza (PIZZA)
 created: 01 Apr 2022
 updated: 21 Jul 2022
 
 based upon work by godarklight
 -->
 
-# PapaKerballinisPizza (PIZZA)
+# Papa Kerballini's Pizza (PIZZA)
 
 [Home](/index.md)
 
