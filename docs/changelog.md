@@ -21,6 +21,33 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/3112)                                 |
 | ckan       | PapaKerballinisPizza                                              |
 
+## Version 1.0.99.1-prerelease - `<Slice: 1>` edition
+
+* Released
+  * 18 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 1.0.99.1
+
+* Bug - experiement was locked, and Jeb wasn't sharing
+  * thank you to [help137](https://github.com/help137) for pointing out the cold pizza
+  * usage masks for the experiment were incorrect
+  * free warm pizza for all! Delivery will be in a red vehicle floating off the ground.
+  * pushes back the new recipe to next release
+* converted textures to .dds
+* Localization completed, just need translators
+
+### Status 1.0.99.01
+
+* Issues
+  * closes #38 - Papa Kerballini's Pizza (PIZZA) 1.0.99.1-prerelease `<Slice: 1>` edition
+  * closes #39 - 1.0.99.1 Additional Tasks
+  * closes #41 - [BUG] How do you actually use this experiment?
+  * updates #34 - [Request]: Create Pizza science experiment 🍕🧪
+
+---
+
 ## Version 1.0.99.0-adoption - `<Thank you link5505>` edition
 
 * Released
